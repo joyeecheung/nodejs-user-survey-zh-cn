@@ -233,20 +233,20 @@
 33. **On a scale of 1-10 where 1 is extremely difficult and 10 is extremely easy, please rate your experience learning Node.js 从 1 到 10，以 1 为最难，10 为最容易，请问你学习 Node.js 的困难程度是**
   * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
 34. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the availability of resources to learn Node.js. 从 1 到 10，以 1 为最糟糕（几乎找不到），10 为最好（非常好找），请问你学习 Node.js 的资源的丰富程度。**
-  * General Node.js programming 包括广义上的 Node.js 编程
+  * General Node.js programming 广义上的 Node.js 编程
   * JavaScript 
   * ES2016 and beyond 	
   * Asynchronous programming 异步编程
-	* Node.js for front-end engineering 用 Node.js 做前端工程化
+  * Node.js for front-end engineering 用 Node.js 做前端工程化
   * Managing Node.js in production 管理线上的 Node.js 应用
   * Node.js and security 	Node.js 与安全
   * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
 35. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the quality of resources to learn Node.js 从 1 到 10，以 1 为最糟糕，10 为最好，请问你获取到的 Node.js 学习资源的质量是：**
-  * General Node.js programming 包括广义上的 Node.js 编程
+  * General Node.js programming 广义上的 Node.js 编程
   * JavaScript 
   * ES2016 and beyond 	
   * Asynchronous programming 异步编程
-	* Node.js for front-end engineering 用 Node.js 做前端工程化
+  * Node.js for front-end engineering 用 Node.js 做前端工程化
   * Managing Node.js in production 管理线上的 Node.js 应用
   * Node.js and security 	Node.js 与安全
   * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
@@ -290,3 +290,59 @@
   * Conference talk videos 开发者大会的录像
   * Tutorial videos 视频教程
   * Other (please specify) 其他（备注）
+38. **What version of Node.js do you use in production? 你在线上使用什么版本的 Node.js ？**
+39. （会根据上一个答案给出多个版本的问题）
+  * 如果选了 v6 以下：Have you considered moving to v6 in production? 你考虑过在线上使用 Node.js v6 吗？
+    * 如果选了是（Yes）： Do you plan to upgrade to v6? 你现在有升级到 v6 的计划吗？
+    * 如果选了否（No）： 会出来一些问题问理由
+  * 选择了 v6：Did you upgrade from an earlier version of Node.js to v6 in production? 你是从更早的版本升级到 v6 的吗？
+  * 选择了 v7 就啥都没有，下一个问题
+40. （我这里按照现在用 v6，以前用的旧版本的线路继续翻译，如果选择不同的话问题号码会有一点差异）On a scale of 1-10 where 1 is very difficult and 10 is very easy, please rate your experience changing Node.js version 从 1 到 10，以 1 为最困难，10 为最容易，评价一下你升级 Node.js 的难度
+41. **Please describe your version change experience - include things like how difficult or easy it was, particular pain points along the way, how you resolved them, the resources you found to be most helpful - documents, videos, people, forums, consultants, etc., how long it took, what your process was. 描述一下你升级的经验（能长篇写这个的应该不需要看我翻译后面那段了）**
+42. **Which release line of Node.js do you follow? 你跟随的 Node.js 版本发布线是？**
+  * LTS  v4.x，v6.x...这样
+  * Current  v5.x，v7.x...这样
+  * Other (please specify)
+43. **What primary OS/distro do you use in DEVELOPMENT? 你在开发时主要使用什么操作系统/发行版？**
+  * Ubuntu
+  * Debian-based Linux distributions
+  * Arch Linux
+  * Enterprise Linux and Fedora（CentOS 和红帽的选这里）
+  * FreeBSD and OpenBSD
+  * Gentoo
+  * NetBSD
+  * openSUSE and SLE
+  * macOS
+  * SmartOS and illumos
+  * Void Linux
+  * Windows
+  * Other (please specify) or indicate secondary development OS/distro 备注其他，或写一下次要的使用版本
+44. **What primary OS/distro do you use in PRODUCTION? 你在线上主要使用什么操作系统/发行版？**
+  * Ubuntu
+  * Debian-based Linux distributions
+  * Arch Linux
+  * Enterprise Linux and Fedora（CentOS 和红帽的选这里）
+  * FreeBSD and OpenBSD
+  * Gentoo
+  * NetBSD
+  * openSUSE and SLE
+  * macOS
+  * SmartOS and illumos
+  * Void Linux
+  * Windows
+  * Other (please specify) or indicate secondary production OS/distro 备注其他，或写一下次要的使用版本
+45. **What Node.js version manager do you use? 你使用的 Node.js 版本管理器是？**
+  * apt-get
+  * Docker
+  * homebrew
+  * n
+  * nave
+  * nodebrew
+  * nodenv
+  * nodist
+  * nvm
+  * nvm-windows
+  * I don’t use one 我不用
+  * Other (please specify) or if multiple, indicate secondary version manager 备注其他，或者写一下次要使用的管理器
+46. **If applicable, why do you use the version manager(s) indicated in the previous question （可略）为什么你要使用上面选择的版本管理器？**
+
