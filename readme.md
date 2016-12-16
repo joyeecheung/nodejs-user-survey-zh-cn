@@ -1,7 +1,5 @@
 Q4 2016 Node.js User Survey
 
-### Tell us about you
-
 1. **What is your professional title? 你的职位是？**
   * Frontend Engineer 前端工程师
   * Senior Frontend Engineer 资深前端工程师
@@ -84,3 +82,150 @@ Q4 2016 Node.js User Survey
   * Other (please specify) 其他（请注明）
 18. **If applicable, what open source repositories/working groups/projects in Node.js do you contribute to? This is not exclusive to projects under the Node.js GitHub organization. （可略）请问你在哪些 Node.js 相关的开源仓库/工作组/项目中做过贡献？不一定要是 GitHub 上 Node.js 组织下的。**
   * Other (please specify) 其他（请注明）
+19. **What percent of your professional development time do you spend using Node.js? 你的职业开发时间中有多少在使用 Node.js？**
+  * Less than 25%
+  * 25% to less than 50%
+  * 50% to less than 75%
+  * 75% or more
+20. **What percent of your TOTAL development time do you spend using Node.js? 你的开发时间（含业余）中有多少在使用 Node.js？**
+  * Less than 25%
+  * 25% to less than 50%
+  * 50% to less than 75%
+  * 75% or more
+21. **What is your PRIMARY area of development focus where you use Node.js? 你使用 Node.js 开发时的主要领域是？**
+  * Front-end 前端
+  * Mobile 移动端
+  * Desktop applications 桌面端
+  * Back-end (including APIs) 后端（包括 API）
+  * Full stack 全栈
+  * IoT 物联网
+  * Ops/DevOps 运维/DevOps
+  * Security 安全
+  * Other (please specify) 其他（备注）
+22. **What are your secondary areas of development focus where you use Node.js? 你使用 Node.js 开发时的次要领域是？**
+  * Front-end 前端
+  * Mobile 移动端
+  * Desktop applications 桌面端
+  * Back-end (including APIs) 后端（包括 API）
+  * Full stack 全栈
+  * IoT 物联网
+  * Ops/DevOps 运维/DevOps
+  * Security 安全
+  * Other (please specify) 其他（备注）
+23. **Please select the types of development work you spend your time on when using Node.js (you may select more than one) 请选择你在使用 Node.js 开发时的工作类型（多选）**
+  * Enterprise 企业级开发
+  * Big Data/Analytics 大数据/分析
+  * Web Apps
+  * Hobbyist 兴趣开发
+  * Embedded Systems 嵌入式
+  * Other (please specify)
+24. **In addition to Node.js, which of the following languages have you used in the past 12 months? 除了 Node.js 以外，最近的 12 个月内你还使用过以下哪些语言？**
+  * Go
+  * Ruby
+  * Scala
+  * .Net
+  * C++
+  * C
+  * JavaScript
+  * Java
+  * Erlang
+  * PHP
+  * Python
+  * Perl
+  * R
+  * Dart
+  * Rust
+  * Swift
+  * Other (please specify)
+25. **Please indicate whether you expect to increase, decrease or maintain the same level of language usage in the next 12 months (for any language you don't use, select "N/A")  你预测接下来的 12 个月内，自己对下面的语言的使用率是升高（increase），降低（decrease），还是保持不变（same）？（如果你不用这门语言，选择 "N/A"）**
+26. **What tools/technologies have you used in/with Node.js in the past 12 months? Check all that apply 在过去的 12 个月里，你在使用 Node.js 做开发时（搭配）使用了哪些技术？**
+  * PostgreSQL
+  * MySQL
+  * MariaDB
+  * MongoDB
+  * Redis
+  * ElasticSearch
+  * SQLite
+  * CouchDB
+  * Cassandra
+  * JSON file
+  * React
+  * Angular
+  * Angular 2
+  * Vue
+  * jQuery
+  * Meteor
+  * Ember
+  * Express
+  * Hapi
+  * GraphQL
+  * Koa
+  * Restify
+  * RabbitMQ
+  * ZeroMQ
+  * ActiveMQ
+  * NSQ
+  * Docker
+  * Triton
+  * Kubernetes
+  * Serverless (AWS Lambda, IBM Whisk, Azure Functions, etc.)
+  * Circle
+  * Travis
+  * Codeship
+  * Shippable
+  * Jenkins
+  * HAProxy
+  * Nginx
+  * Apache
+  * Other (please specify)
+27. **Where do you deploy your Node.js code? (select primary deployment for production) 你的 Node.js 代码部署在什么地方？（选择生产环境的主要部署位置）**
+  * Amazon Web Services
+  * Google Cloud Platform
+  * Azure
+  * heroku
+  * openshift
+  * IBM Bluemix
+  * On-premise infrastructure  自建机房
+  * My code doesn't require deployment  我的代码不需要部署
+  * Other (please specify) 其他（备注）
+28. **Optional, what are your secondary deployment locations for your Node.js production code? (select all that apply)（可略）你的 Node.js 代码其次部署在什么地方？**
+  * Amazon Web Services
+  * Google Cloud Platform
+  * Azure
+  * heroku
+  * openshift
+  * IBM Bluemix
+  * On-premise infrastructure  自建机房
+  * My code doesn't require deployment  我的代码不需要部署
+  * Other (please specify) 其他（备注）
+29. **Where do you primarily deploy your Node.js code for development? 你在开发时将 Node.js 代码部署在哪里？**
+  * Amazon Web Services
+  * Google Cloud Platform
+  * Azure
+  * heroku
+  * openshift
+  * IBM Bluemix
+  * On-premise infrastructure  自建机房
+  * My code doesn't require deployment  我的代码不需要部署
+  * Other (please specify) 其他（备注）
+30. **If any, which transpiler do you use? 你有用转译器(transpiler)的话，用的是哪个？**
+  * Babel
+  * Traceur
+  * TypeScript
+  * I do not use a transpiler 我不用转译器 
+  * Other (please specify)
+31. **If any, what module bundler do you use? 如果你有用打包器（bundler）的话，用的是哪个？**
+  * gulp
+  * rollup
+  * webpack
+  * browserify
+  * grunt
+  * I do not use a module bundler 我不用打包器
+  * Other (please specify)
+32. **When writing JavaScript, what language version do you target for Node.js code? If you target different language versions for different projects, please select the one you target most for your recent (past 6 months) work and use the "Other" field to indicate the secondary version you target. 你的 Node.js 代码中 JavaScript 的目标版本是？如果你的不同项目使用的语言版本不同，请选择最近 6 个月里使用最多的那个版本，然后在下面再填一个第二多的版本。**
+  * ES5 or below
+  * ES2016 (ES6)
+  * ES2017 or above
+  * Don't know
+  * Secondary target version, if applicable
+  
