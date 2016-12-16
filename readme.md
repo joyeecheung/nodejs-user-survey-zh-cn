@@ -214,13 +214,13 @@ Q4 2016 Node.js User Survey
   * TypeScript
   * I do not use a transpiler 我不用转译器 
   * Other (please specify)
-31. **If any, what module bundler do you use? 如果你有用打包器（bundler）的话，用的是哪个？**
+31. **If any, what module bundler do you use? 如果你有用模块打包器（module bundler）的话，用的是哪个？**
   * gulp
   * rollup
   * webpack
   * browserify
   * grunt
-  * I do not use a module bundler 我不用打包器
+  * I do not use a module bundler 我不用模块打包器
   * Other (please specify)
 32. **When writing JavaScript, what language version do you target for Node.js code? If you target different language versions for different projects, please select the one you target most for your recent (past 6 months) work and use the "Other" field to indicate the secondary version you target. 你的 Node.js 代码中 JavaScript 的目标版本是？如果你的不同项目使用的语言版本不同，请选择最近 6 个月里使用最多的那个版本，然后在下面再填一个第二多的版本。**
   * ES5 or below
@@ -228,4 +228,63 @@ Q4 2016 Node.js User Survey
   * ES2017 or above
   * Don't know
   * Secondary target version, if applicable
-  
+33. **On a scale of 1-10 where 1 is extremely difficult and 10 is extremely easy, please rate your experience learning Node.js 从 1 到 10，以 1 为最难，10 为最容易，请问你学习 Node.js 的困难程度是**
+  * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
+34. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the availability of resources to learn Node.js. 从 1 到 10，以 1 为最糟糕（几乎找不到），10 为最好（非常好找），请问你学习 Node.js 的资源的丰富程度。**
+  * General Node.js programming 包括广义上的 Node.js 编程
+  * JavaScript 
+  * ES2016 and beyond 	
+  * Asynchronous programming 异步编程
+	* Node.js for front-end engineering 用 Node.js 做前端工程化
+  * Managing Node.js in production 管理线上的 Node.js 应用
+  * Node.js and security 	Node.js 与安全
+  * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
+35. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the quality of resources to learn Node.js 从 1 到 10，以 1 为最糟糕，10 为最好，请问你获取到的 Node.js 学习资源的质量是：**
+  * General Node.js programming 包括广义上的 Node.js 编程
+  * JavaScript 
+  * ES2016 and beyond 	
+  * Asynchronous programming 异步编程
+	* Node.js for front-end engineering 用 Node.js 做前端工程化
+  * Managing Node.js in production 管理线上的 Node.js 应用
+  * Node.js and security 	Node.js 与安全
+  * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
+* 36. When learning a new language/framework/runtime environment, what resources do you rely on most? 当你学习一门新语言／新框架／新的运行时，请问你最依赖哪种学习资源？
+  * Meet-up talk events  有分享演讲的线下聚会
+  * Meet-up coding events 有一起编程的线下聚会
+  * Conferences 开发者大会
+  * Publications (Books, eBooks, Magazines) 出版物（书，电子书，杂志）
+  * StackOverflow
+  * Free online courses 免费的网上资源
+  * Paid online courses 付费的网上资源
+  * Enterprise tooling 企业工具
+  * Enterprise services 企业服务
+  * Workshops independent of conferences 线下研讨会（和开发者大会无关）
+  * Case studies 案例研究
+  * Documentation 文档
+  * Technical podcasts 技术播客
+  * Business case study podcasts 商业案例研究播客
+  * Technical webinars 在线技术分享会
+  * Business case study webinars 商业案例研究线上技术分享会
+  * Conference talk videos 开发者大会的录像
+  * Tutorial videos 视频教程
+  * Other (please specify) 其他（备注）
+37. **What resources would you like MORE of for Node.js? 你希望看到更多哪种 Node.js 的学习资源？**
+  * Meet-up talk events  有分享演讲的线下聚会
+  * Meet-up coding events 有一起编程的线下聚会
+  * Conferences 开发者大会
+  * Publications (Books, eBooks, Magazines) 出版物（书，电子书，杂志）
+  * StackOverflow
+  * Free online courses 免费的网上资源
+  * Paid online courses 付费的网上资源
+  * Enterprise tooling 企业工具
+  * Enterprise services 企业服务
+  * Workshops independent of conferences 线下研讨会（和开发者大会无关）
+  * Case studies 案例研究
+  * Documentation 文档
+  * Technical podcasts 技术播客
+  * Business case study podcasts 商业案例研究播客
+  * Technical webinars 在线技术分享会
+  * Business case study webinars 商业案例研究线上技术分享会
+  * Conference talk videos 开发者大会的录像
+  * Tutorial videos 视频教程
+  * Other (please specify) 其他（备注）
