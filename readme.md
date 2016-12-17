@@ -214,7 +214,7 @@
   * Babel
   * Traceur
   * TypeScript
-  * I do not use a transpiler 我不用转译器 
+  * I do not use a transpiler 我不用转译器
   * Other (please specify)
 31. **If any, what module bundler do you use? 如果你有用模块打包器（module bundler）的话，用的是哪个？**
   * gulp
@@ -234,8 +234,8 @@
   * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
 34. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the availability of resources to learn Node.js. 从 1 到 10，以 1 为最糟糕（几乎找不到），10 为最好（非常好找），请问你学习 Node.js 的资源的丰富程度。**
   * General Node.js programming 广义上的 Node.js 编程
-  * JavaScript 
-  * ES2016 and beyond 	
+  * JavaScript
+  * ES2016 and beyond
   * Asynchronous programming 异步编程
   * Node.js for front-end engineering 用 Node.js 做前端工程化
   * Managing Node.js in production 管理线上的 Node.js 应用
@@ -243,14 +243,14 @@
   * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
 35. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the quality of resources to learn Node.js 从 1 到 10，以 1 为最糟糕，10 为最好，请问你获取到的 Node.js 学习资源的质量是：**
   * General Node.js programming 广义上的 Node.js 编程
-  * JavaScript 
-  * ES2016 and beyond 	
+  * JavaScript
+  * ES2016 and beyond
   * Asynchronous programming 异步编程
   * Node.js for front-end engineering 用 Node.js 做前端工程化
   * Managing Node.js in production 管理线上的 Node.js 应用
   * Node.js and security 	Node.js 与安全
   * You may optionally use this space to explain your selection 你可以在这个输入框内填写你评分的理由
-* 36. When learning a new language/framework/runtime environment, what resources do you rely on most? 当你学习一门新语言／新框架／新的运行时，请问你最依赖哪种学习资源？
+36. When learning a new language/framework/runtime environment, what resources do you rely on most? 当你学习一门新语言／新框架／新的运行时，请问你最依赖哪种学习资源？
   * Meet-up talk events  有分享演讲的线下聚会
   * Meet-up coding events 有一起编程的线下聚会
   * Conferences 开发者大会
@@ -345,4 +345,61 @@
   * I don’t use one 我不用
   * Other (please specify) or if multiple, indicate secondary version manager 备注其他，或者写一下次要使用的管理器
 46. **If applicable, why do you use the version manager(s) indicated in the previous question （可略）为什么你要使用上面选择的版本管理器？**
-
+47. **On a scale of 1-10 where 1 is very confused and 10 is perfectly clear, how would you rate your present understanding of which *version* of Node.js you should be using in production? 从 1 到 10，以 1 为非常困惑，10 为非常清楚，请问你对应该在线上使用哪个版本的 Node.js 的了解程度是？**
+48. **On a scale of 1-10 where 1 is very confused and 10 is perfectly clear, how would you rate your present understanding of the LTS schedule/support timeframes for various versions of Node.js?  从 1 到 10，以 1 为非常困惑，10 为非常清楚，请问你对 Node.js 不同版本的 LTS 时间表/技术支持周期的了解程度是？**
+49. **What can the Node.js Foundation do to make it more clear which version of Node.js you should be using? 为了帮助你理解应该使用哪个版本的 Node.js，你觉得 Node.js 基金会还应该做些什么？**
+50. **What package manager are you using? 你使用什么包管理器？**
+51. **Where do you search for packages? 你在哪里搜索可以使用的包？**
+52. **On a scale of 1-10 where 1 is ‘not at all important’ and 10 is ‘extremely important ’, how important to you is managing different packages for multiple environments (e.g. react vs react-native or cli)? 从 1 到 10，以 1 为“完全不重要”，10 为“非常重要”，请问对你而言为不同环境管理不同的包的重要程度是？**
+53. **On a scale of 1-10 where 1 is ‘not at all important’ and 10 is ‘extremely important’, how important is the availability of multiple registries to you? (this question is optional - if you don't have an opinion, please skip) 从 1 到 10，以 1 为“完全不重要”，10 为“非常重要”，请问对你而言拥有多个包 registry 的重要程度是？（注：registry 是 npm 命令行工具等用来搜索包下载地址的东西，比如 registry.npm.org 是一个 registry）**
+You may optionally use this space to explain your rating
+54. **What improvements in the Node.js package manager space would you like to see? 你希望在 Node.js 包管理器领域看到什么改进？**
+55. **On a scale of 1 to 10, where 1 is not at all interesting and 10 is extremely interesting, please rate your interest in receiving different types of Node.js news on a regular basis. 从 1 到 10，以 1 为 “完全不感兴趣”，以 10 为“非常感兴趣”，请问你对定期获取各种 Node.js 相关新闻的兴趣是？**
+  * Releases 	版本发布
+  * Notable changes 重要更新
+  * Known issues 已知问题
+  * Working groups 	工作组新闻
+  * Node.js champions of the week/month Node.js 每周/月之星
+  * Community Conferences 社区大会（比较大的会议）
+  * Community Meetups 	社区聚会（比较小的见面聚会）
+  * Community Online events 	线上社区活动
+  * Featured community of the week 	每周最佳社区（比如 express 是一个社区，react 是一个社区）
+  * Community Organization happenings 社区组织近况
+  * Ecosystem projects 	生态系统内的项目
+  * Enterprise case studies 	企业级案例研究
+  * Enterprise presentations (to help make case for Node.js) 	企业级分享（用于安利 Node.js）
+  * Enterprise tooling and services information 	企业级工具与服务
+  * NodeSchool (events and development) 	NodeSchool（活动与发展）
+  * Mentoring/volunteering opportunities 导师与志愿者招募
+  * Featured package of the week 	每周最佳包
+  * Node.js Foundation 	Node.js 基金会
+56. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the quality of communication for Node.js Slack organizations you participate in? (this question is optional - if you don't have an opinion, please skip) 从 1 到 10，1 为最差，10 为最好，请问你对自己参与过的 Node.js 的 Slack 组织的沟通质量感觉如何？（可选，如果没有意见可以跳过）（注：如果没有用过 Node.js 的 Slack channel 或者不知道这个是什么可以跳过）**
+57. **If applicable, please share what you like or would like improved about Node.js Slack orgs. Please include channel/org if you feel comfortable doing so. （可略） 请分享一下你觉得 Node.js 的 Slack 组织可以改进的地方，可以提及相关的 channel/org**
+58. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the quality of communication for Node.js IRC organizations you participate in? (this question is optional - if you don't have an opinion, please skip) 从 1 到 10，1 为最差，10 为最好，请问你对自己参与过的 Node.js 的 IRC 组织的沟通质量感觉如何？（可选，如果没有意见可以跳过）（注：如果没有用过 Node.js 的 Slack channel 或者不知道这个是什么可以跳过）**
+59. **If applicable, please share what you like or would like improved about Node.js IRC channels. Please include channel/network location if you feel comfortable doing so. （可略） 请分享一下你觉得 Node.js 的 IRC 频道可以改进的地方**
+60. **On a scale of 1-10, where 1 is poor and 10 is excellent, please rate the quality of communication for Node.js GitHub organizations you participate in. Poor means you would like to never interact on GitHub with other participants. Excellent is that you enjoy all interactions as part of collaboration. (this question is optional - if you don't have an opinion, please skip) 从 1 到 10，1 为最差（永远不想再在 GitHub 上和其他参与者合作），10 为最好（在 GitHub 上参与过的合作都很愉快），请问你对自己参与过的 Node.js 的 Github 组织的沟通质量感觉如何？（可选，如果没有意见可以跳过）（注：如果没有参与过 nodejs 这个组织下的项目，可以跳过）**
+61. **If applicable, please share what you like or would like improved about Node.js GitHub communications. Please include channel/network location if you feel comfortable doing so.（可略） 请分享一下你觉得 Node.js 的 Github 组织沟通可以改进的地方**
+62. **Please share how the Node.js Foundation can improve your experience in the ecosystem for any topic not covered above or giving further details to your concerns. 请分享一下除了上述问题外，你觉得 Node.js Foundation 还能如何改进你在这个生态系统里的体验，或者分享一下你的其他担忧**
+63. **Please tell us how you heard about this survey: 请告诉我们你是从哪里知道这个调查的**
+  * @nodejs on Twitter
+  * Node Interactive North America
+  * Node.js Foundation blog/website  Node.js 基金会的博客/网站
+  * Node.js Foundation Email  Node.js 基金会发的邮件
+  * Your Node.js Meet-up  你的参与线下 Node.js 聚会
+  * From a Node.js Foundation Member (nodejs.org/en/foundation/members/) 从一个 Node.js 基金会成员那里知道的
+  * Other (please specify) 其他（备注）
+64. **If you’d be willing to speak with someone from the Node.js Foundation to provide additional detail, please provide your email address. 如果你愿意与 Node.js 基金会的人交流其他的细节，请留下你的邮箱**
+65. **Optional - What do you like most about developing with Node.js? 可选 － 你最喜欢 Node.js 开发的什么地方？**
+66. **How has Node.js impacted your business? Select all that apply 请问 Node.js 是如何影响你的行业的？可以多选**
+  * Reduced development costs 降低开发成本
+  * Helped recruit developers 更容易招聘开发者
+  * Increased application performance 提升应用性能
+  * Increased uptime 提升系统 uptime（减少宕机）
+  * Helped increase customer engagement 提高用户活跃度
+  * Helped increase customer satisfaction 提高用户满意度
+  * Improved developer satisfaction 提高开发者满意度
+  * Increased developer productivity 提高开发者效率
+  * Hasn't had an impact 没什么影响
+  * Other (please specify) 其他（备注）
+67. **Please indicate whether you authorize the Node.js Foundation to use your responses to the previous two questions on our web site and other promotional material. 你是否愿意让 Node.js 基金会在我们的网站或者其他宣传材料上使用你对上两个问题的回答？**
+68. **If you would like to receive a copy of the survey results by email, please enter your email address below. 如果你想要通过邮箱获取这份调查的结果，请留下你的邮箱地址**
